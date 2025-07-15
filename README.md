@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://img.apmcdn.org/e03675303ae24a9a78b73cfa16d5d112d7043e2c/uncropped/6534f8-2022-12-thumbnail-ncat-avs-993.png" alt="Aggie Auto - NCAT Autonomous Vehicles" width="100%" />
+</p>
+
 ## Hi there 👋, I'm Robert Akinie
 
 <!--
