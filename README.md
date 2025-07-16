@@ -7,7 +7,7 @@
 <hr />
 
 
-I'm a PhD student in Electrical Engineering at North Carolina A&T State University, focusing on machine learning, edge computing, and secure systems. My work spans federated learning, cybersecurity, and embedded AI — with applications in transportation IoT and intelligent infrastructure.
+I'm a PhD student in Electrical & COmputer Engineering at North Carolina A&T State University, focusing on machine learning, edge computing, and secure systems. My work spans federated learning, cybersecurity, and embedded AI, with applications in transportation IoT and other intelligent infrastructure.
 
 - 🔭 Current project: **Enhancing Cybersecurity in the Autonomous Vehicle Ecosystem through Real-time 
 Detection and Response**
@@ -44,8 +44,9 @@ Detection and Response**
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/valohai/aws-icon/master/logo/aws.png" alt="AWS" width="40" height="40"/>
   </a>
+
 
 
   <!-- ML / DL Frameworks -->
