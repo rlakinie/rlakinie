@@ -16,7 +16,7 @@ Detection and Response**
 
 ---
 
-<h3 align="left">Tools & Platforms:</h3>
+<h3 align="left">Tools & Platforms </h3>
 <p align="left">
   <!-- ML / DL Frameworks -->
   <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
@@ -68,7 +68,8 @@ Detection and Response**
   </a>
 </p>
 ---
-## 📚 Publications
+
+<h3 align="left">📚 Publications </h3>
 
 - [**Fine-Tuning Federated Learning-Based IDS for Transportation IoT**](https://ieeexplore.ieee.org/document/your-paper-id)  
   *IEEE SoutheastCon 2025*  
@@ -84,8 +85,8 @@ Detection and Response**
 ---
 
 
-
-## 🚀 Featured Projects
+<h3 align="left">🚀 Featured Projects:</h3>
+## 
 
 ### 🗑️ [iCAN Self Sorting System](https://github.com/rlakinie/Capstone-Project-BSE-ECE-Calvin-Uni)  
 *Capstone Project — Calvin University (Oct 2020 – May 2021)*
