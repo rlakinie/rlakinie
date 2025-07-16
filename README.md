@@ -4,7 +4,8 @@
 
 ## Hi there 👋, I'm Robert Akinie
 
----
+<hr />
+
 
 I'm a PhD student in Electrical Engineering at North Carolina A&T State University, focusing on machine learning, edge computing, and secure systems. My work spans federated learning, cybersecurity, and embedded AI — with applications in transportation IoT and intelligent infrastructure.
 
@@ -14,7 +15,8 @@ Detection and Response**
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rlakinie&style=flat-square)
 
----
+<hr />
+
 
 <h3 align="left">Tools & Platforms </h3>
 <p align="left">
@@ -69,7 +71,8 @@ Detection and Response**
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
----
+
+<hr />
 
 <h3 align="left">📚 Publications </h3>
 
@@ -84,8 +87,7 @@ Detection and Response**
 - [**NCAT12-DET: Benchmark Dataset for Surface Defect Detection and Comparative Study**](https://ieeexplore.ieee.org/document/your-paper-id)  
   *IEEE Access, 2024*  
   Introduces a novel benchmark dataset for surface defect detection and evaluates several deep learning models on it.
----
-
+<hr />
 
 <h3 align="left">🚀 Featured Projects:</h3>
 
@@ -105,8 +107,8 @@ The system used an NVIDIA Jetson Nano running EfficientNet to classify waste in 
 ### 🤖 **Machine Learning at the Edge**
 > Implemented on-device inference for real-world sensing with Arm microcontrollers using TensorFlow and CubeAI.
 
+<hr />
 
----
 
 <!--
 **rlakinie/rlakinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
