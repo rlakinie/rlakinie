@@ -18,19 +18,7 @@ Detection and Response**
 
 <h3 align="left">Tools & Platforms </h3>
 <p align="left">
-  <!-- ML / DL Frameworks -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40" height="40"/>
-  </a>
+
 
   <!-- Federated Learning -->
   <a href="https://flower.dev" target="_blank" rel="noreferrer">
@@ -56,8 +44,23 @@ Detection and Response**
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/aws.svg" alt="AWS" width="40" height="40"/>
   </a>
+
+    <!-- ML / DL Frameworks -->
+  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" width="40" height="40"/>
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" width="40" height="40"/>
+  </a>
+  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
+  </a>
+  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40" height="40"/>
+  </a>
+
 
   <!-- Version Control -->
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
@@ -86,7 +89,7 @@ Detection and Response**
 
 
 <h3 align="left">🚀 Featured Projects:</h3>
-## 
+
 
 ### 🗑️ [iCAN Self Sorting System](https://github.com/rlakinie/Capstone-Project-BSE-ECE-Calvin-Uni)  
 *Capstone Project — Calvin University (Oct 2020 – May 2021)*
