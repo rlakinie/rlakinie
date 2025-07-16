@@ -21,46 +21,27 @@ I'm a PhD student in Electrical & Computer Engineering at North Carolina A&T Sta
   <!-- Federated Learning -->
   <a href="https://flower.dev/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/57905187?v=4" alt="Flower FL" height="70"/>
-  </a>
-
-  <!-- Dev Tools & Data -->
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" height="70"/>
-  </a>
-  <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" height="70"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" height="70"/>
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.python.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="70"/>
-  </a>
-
-  <!-- Cloud -->
-  <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolitUhvLnU-yiE1vGE5s6W3S8EimwLXW-YQ&s" alt="AWS" height="70"/>
-  </a>
-
-  <!-- ML / DL Frameworks -->
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://pytorch.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" alt="PyTorch" height="70"/>
-  </a>
-  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" alt="TensorFlow" height="70"/>
-  </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
+  </a><a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" height="70"/>
-  </a>
-  <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
     <img src="https://site.interns.school/wp-content/uploads/2023/06/langchain-learning-1.png" alt="LangChain" height="70"/>
-  </a>
-
-  <!-- Version Control -->
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" height="70"/>
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
+  </a><a href="https://github.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" height="70"/>
   </a>
 </div>
