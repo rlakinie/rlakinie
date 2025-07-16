@@ -24,7 +24,7 @@ Detection and Response**
 
   <!-- Federated Learning -->
   <a href="https://flower.dev/" target="_blank" rel="noreferrer">
-    <img src="https://flower.ai/static/images/previews/1200x628/2020-11-26-hello-flower-blog.jpg" alt="Flower FL" width="40" height="40"/>
+    <img src="https://avatars.githubusercontent.com/u/57905187?v=4" alt="Flower FL" width="40" height="40"/>
   </a>
 
 
@@ -62,7 +62,7 @@ Detection and Response**
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="40" height="40"/>
   </a>
   <a href="https://www.langchain.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/langchain-ai/langchain/master/docs/static/img/logo.png" alt="LangChain" width="40" height="40"/>
+    <img src="https://site.interns.school/wp-content/uploads/2023/06/langchain-learning-1.png" alt="LangChain" width="40" height="40"/>
   </a>
 
 
