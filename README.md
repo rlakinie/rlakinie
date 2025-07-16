@@ -4,6 +4,7 @@
 
 ## Hi there 👋, I'm Robert Akinie
 
+---
 
 I'm a PhD student in Electrical Engineering at North Carolina A&T State University, focusing on machine learning, edge computing, and secure systems. My work spans federated learning, cybersecurity, and embedded AI — with applications in transportation IoT and intelligent infrastructure.
 
@@ -13,6 +14,7 @@ I'm a PhD student in Electrical Engineering at North Carolina A&T State Universi
 ![Profile Views](https://komarev.com/ghpvc/?username=rlakinie&style=flat-square)
 
 ---
+
 <h3 align="left">Tools & Platforms:</h3>
 <p align="left">
   <!-- ML / DL Frameworks -->
