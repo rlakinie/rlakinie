@@ -23,9 +23,10 @@ Detection and Response**
 
 
   <!-- Federated Learning -->
-  <a href="https://flower.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/adap/flower/main/docs/source/_static/img/logo.svg" alt="Flower FL" width="40" height="40"/>
+  <a href="https://flower.dev/" target="_blank" rel="noreferrer">
+    <img src="https://flower.ai/static/images/previews/1200x628/2020-11-26-hello-flower-blog.jpg" alt="Flower FL" width="40" height="40"/>
   </a>
+
 
   <!-- Dev Tools & Data -->
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
@@ -44,8 +45,9 @@ Detection and Response**
 
   <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/valohai/aws-icon/master/logo/aws.png" alt="AWS" width="40" height="40"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSolitUhvLnU-yiE1vGE5s6W3S8EimwLXW-YQ&s" alt="AWS" width="40" height="40"/>
   </a>
+
 
 
 
