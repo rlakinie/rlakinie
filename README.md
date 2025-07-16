@@ -8,8 +8,9 @@
 
 I'm a PhD student in Electrical Engineering at North Carolina A&T State University, focusing on machine learning, edge computing, and secure systems. My work spans federated learning, cybersecurity, and embedded AI — with applications in transportation IoT and intelligent infrastructure.
 
-- 🔭 Current project: **Federated Learning-Based Intrusion Detection for Transportation IoT**
-- 🎓 Research Assistant @ NC-CAV 
+- 🔭 Current project: **Enhancing Cybersecurity in the Autonomous Vehicle Ecosystem through Real-time 
+Detection and Response**
+- 🎓 Research Assistant @ NC A&T and NC-CAV 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rlakinie&style=flat-square)
 
@@ -36,20 +37,26 @@ I'm a PhD student in Electrical Engineering at North Carolina A&T State Universi
     <img src="https://raw.githubusercontent.com/adap/flower/main/docs/source/_static/img/logo.svg" alt="Flower FL" width="40" height="40"/>
   </a>
 
-  <!-- Data Science Stack -->
+  <!-- Dev Tools & Data -->
   <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" height="40"/>
   </a>
   <a href="https://www.anaconda.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" alt="Anaconda" width="40" height="40"/>
   </a>
-
-  <!-- DevOps / Platforms -->
   <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
   </a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+  </a>
+
+  <!-- Cloud -->
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
-    <img src="https://a0.awsstatic.com/libra-css/images/logos/aws_logo_smile_1200x630.png" alt="AWS" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="40" height="40"/>
   </a>
 
   <!-- Version Control -->
@@ -60,6 +67,43 @@ I'm a PhD student in Electrical Engineering at North Carolina A&T State Universi
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
   </a>
 </p>
+---
+## 📚 Publications
+
+- [**Fine-Tuning Federated Learning-Based IDS for Transportation IoT**](https://ieeexplore.ieee.org/document/your-paper-id)  
+  *IEEE SoutheastCon 2025*  
+  A framework to enhance intrusion detection in transportation networks using federated learning and fine-tuning strategies.
+
+- [**An AutoML-Based Approach for Network Intrusion Detection**](https://ieeexplore.ieee.org/document/your-paper-id)  
+  *IEEE SoutheastCon 2025*  
+  Proposes an AutoML pipeline to automate model selection and optimization for enhanced detection accuracy.
+
+- [**NCAT12-DET: Benchmark Dataset for Surface Defect Detection and Comparative Study**](https://ieeexplore.ieee.org/document/your-paper-id)  
+  *IEEE Access, 2024*  
+  Introduces a novel benchmark dataset for surface defect detection and evaluates several deep learning models on it.
+---
+
+
+
+## 🚀 Featured Projects
+
+### 🗑️ [iCAN Self Sorting System](https://github.com/rlakinie/Capstone-Project-BSE-ECE-Calvin-Uni)  
+*Capstone Project — Calvin University (Oct 2020 – May 2021)*
+
+An AI-powered prototype waste sorting system combining PLC automation and computer vision.  
+The system used an NVIDIA Jetson Nano running EfficientNet to classify waste in real time and direct sorting via PLC-controlled actuators and a conveyor.
+
+- 🧠 Real-time inference using EfficientNet on Jetson Nano  
+- ⚙️ PLC subsystem handled physical sorting via actuators  
+- 🤝 Industry collaboration with Dematic and Padnos Recycling  
+- 🛠️ Tools: Python, EfficientNet, Jetson Nano, PLCs, industrial sensors
+
+
+### 🤖 **Machine Learning at the Edge**
+> Implemented on-device inference for real-world sensing with Arm microcontrollers using TensorFlow and CubeAI.
+
+
+---
 
 <!--
 **rlakinie/rlakinie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
