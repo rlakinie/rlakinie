@@ -9,7 +9,7 @@
 I'm a PhD student in Electrical & Computer Engineering at North Carolina A&T State University, focusing on machine learning, edge computing, and secure systems. My work spans federated learning, cybersecurity, and embedded AI, with applications in transportation IoT and other intelligent infrastructure.
 
 - 🔭 Current project: **Enhancing Cybersecurity in the Autonomous Vehicle Ecosystem through Real-time Detection and Response**  
-- 🎓 Research Assistant @ NC A&T and NC-CAV 
+- 🎓 Graduate Research Assistant @ NC A&T and NC-CAV 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rlakinie&style=flat-square)
 
