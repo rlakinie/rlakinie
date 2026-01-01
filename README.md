@@ -52,10 +52,10 @@ I'm a PhD student in Electrical & Computer Engineering at North Carolina A&T Sta
 
 <h3 align="left">🚀 Featured Projects</h3>
 
-### 🔄 MetaMorph: LLM-Based Metadata Transformation Pipeline
+### 🔄 [MetaMorph: LLM-Based Metadata Transformation Pipeline](https://github.com/Michael000777/MetaMorph)
 
 Collaborative Research & Engineering Project (2024 – Present)
-Developed in collaboration with (https://github.com/Michael000777))*
+Developed in collaboration with [Mike](https://github.com/Michael000777)*
 
 A modular, multi-agent system for transforming unstructured tabular metadata into validated, machine-readable schemas using large language models. MetaMorph operates at the column level and applies schema inference, structured parsing, refinement, and validation through a LangGraph-based state machine.
 
