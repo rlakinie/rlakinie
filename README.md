@@ -52,6 +52,23 @@ I'm a PhD student in Electrical & Computer Engineering at North Carolina A&T Sta
 
 <h3 align="left">🚀 Featured Projects</h3>
 
+### 🔄 MetaMorph: LLM-Based Metadata Transformation Pipeline
+
+Collaborative Research & Engineering Project (2024 – Present)
+Developed in collaboration with (https://github.com/Michael000777))*
+
+A modular, multi-agent system for transforming unstructured tabular metadata into validated, machine-readable schemas using large language models. MetaMorph operates at the column level and applies schema inference, structured parsing, refinement, and validation through a LangGraph-based state machine.
+
+- 🧩 Column-wise metadata normalization using LLM agents
+- 🧠 Supervisor-driven routing with bounded refinement loops
+- 📐 Structured outputs enforced via Pydantic models
+- ⚡ Concurrent execution across dataset columns
+- 🔍 Built-in validation, failure handling, and traceable execution paths
+- 🛠️ Tools: Python, LangGraph, LangChain, Pydantic, asyncio, OpenAI APIs
+Designed to support data engineering, ML preprocessing, and metadata harmonization workflows where schema information is incomplete or noisy.
+
+
+
 ### 🗑️ [iCAN Self Sorting System](https://github.com/rlakinie/Capstone-Project-BSE-ECE-Calvin-Uni)  
 *Capstone Project — Calvin University (Oct 2020 – May 2021)*
 
@@ -65,5 +82,6 @@ The system used an NVIDIA Jetson Nano running EfficientNet to classify waste in 
 
 ### 🤖 **Machine Learning at the Edge**
 > Implemented on-device inference for real-world sensing with Arm microcontrollers using TensorFlow and CubeAI.
+
 
 <hr />
